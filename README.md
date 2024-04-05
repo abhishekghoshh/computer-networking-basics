@@ -1,7 +1,9 @@
 # computer-networking-basics
 Resources for learning computer networking
 
-
+## Youtube
+- **playlist**
+  - [Sunny Classroom](https://www.youtube.com/@sunnyclassroom24/playlists)
 
 ## Udemy
 
